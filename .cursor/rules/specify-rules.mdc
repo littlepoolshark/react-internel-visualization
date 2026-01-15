@@ -1,0 +1,29 @@
+# react-internel-visualization Development Guidelines
+
+Auto-generated from all feature plans. Last updated: 2026-01-04
+
+## Active Technologies
+
+- TypeScript + React 18 (001-fiber-hook-viz)
+
+## Project Structure
+
+```text
+src/
+tests/
+```
+
+## Commands
+
+npm test && npm run lint
+
+## Code Style
+
+TypeScript + React 18: Follow standard conventions
+
+## Recent Changes
+
+- 001-fiber-hook-viz: Added TypeScript + React 18
+
+<!-- MANUAL ADDITIONS START -->
+<!-- MANUAL ADDITIONS END -->

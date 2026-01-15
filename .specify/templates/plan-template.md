@@ -33,6 +33,15 @@
 
 [Gates determined based on constitution file]
 
+<!--
+  For this repository (rsbuild React + TypeScript), ensure the gates cover at least:
+  - TypeScript typecheck passes (no unsafe any introduced for core data paths)
+  - Lint/format gates pass (repo standard)
+  - Tests present for logic/interaction changes (or explicit waiver + validation plan)
+  - UX gates: loading/empty/error states are defined for the feature
+  - Performance risks identified for visualization interactions (re-render / large dataset strategy)
+-->
+
 ## Project Structure
 
 ### Documentation (this feature)
